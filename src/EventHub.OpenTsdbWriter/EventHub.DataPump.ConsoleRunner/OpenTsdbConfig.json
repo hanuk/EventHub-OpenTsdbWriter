@@ -1,0 +1,4 @@
+﻿{
+    "OpenTsdbHost": "[your_host_name]",
+    "OpenTsdbPort": "[your_port_number]"
+}

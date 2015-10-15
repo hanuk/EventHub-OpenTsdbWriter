@@ -1,0 +1,5 @@
+﻿{
+    "EventHubName": "[your_eventhub_name]",
+    "EventHubConnectionString":  "[your_eventhub_connection_string",
+    "AzureStorageConnectionString": "[your_storage_connection_string]"
+} 
